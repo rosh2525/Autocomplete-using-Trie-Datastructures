@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Autocomplete_using_Trie_Datastructures",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Autocomplete_using_Trie_Datastructures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Autocomplete_using_Trie_Datastructures-Debug-afaf876fc4c43dff7b05.json",
+					"name" : "Autocomplete_using_Trie_Datastructures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Autocomplete_using_Trie_Datastructures_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Autocomplete_using_Trie_Datastructures_autogen-Debug-913fc86cd930e60538b5.json",
+					"name" : "Autocomplete_using_Trie_Datastructures_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Autocomplete_using_Trie_Datastructures_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Autocomplete_using_Trie_Datastructures_autogen_timestamp_deps-Debug-e4746fa4ecb639b5a9f4.json",
+					"name" : "Autocomplete_using_Trie_Datastructures_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug",
+		"source" : "/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

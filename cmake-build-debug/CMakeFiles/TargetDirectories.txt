@@ -1,0 +1,5 @@
+/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/CMakeFiles/Autocomplete_using_Trie_Datastructures.dir
+/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/CMakeFiles/Autocomplete_using_Trie_Datastructures_autogen_timestamp_deps.dir
+/Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/CMakeFiles/Autocomplete_using_Trie_Datastructures_autogen.dir

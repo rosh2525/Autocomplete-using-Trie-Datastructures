@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Autocomplete_using_Trie_Datastructures_FILE /Users/roshank/CLionProjects/Autocomplete using Trie Datastructures/cmake-build-debug/Autocomplete_using_Trie_Datastructures)
+set(__QT_DEPLOY_TARGET_Autocomplete_using_Trie_Datastructures_TYPE EXECUTABLE)

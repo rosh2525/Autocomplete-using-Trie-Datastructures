@@ -938,11 +938,13 @@
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -963,6 +965,7 @@
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qset.h \
@@ -1041,17 +1044,34 @@
   /Users/roshank/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QCheckBox \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QCompleter \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QTreeWidget \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemview.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcompleter.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtextedit.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreeview.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreewidget.h \
+  /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreewidgetitemiterator.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
   /Users/roshank/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \

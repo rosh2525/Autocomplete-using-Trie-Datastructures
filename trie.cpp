@@ -4,6 +4,11 @@ Trie::Trie() {
     root = new TrieNode();
 }
 
+Trie::~Trie() {
+    // Clean up the Trie (optional, but recommended)
+    // Implement a recursive function to delete all nodes if needed.
+}
+
 void Trie::insert(const std::string& word) {
     TrieNode* current = root;
     for (char ch : word) {
@@ -35,4 +40,8 @@ std::vector<std::string> Trie::search(const std::string& prefix) {
     }
     dfs(current, prefix, suggestions);
     return suggestions;
+}
+
+TrieNode* Trie::getRoot() const {
+    return root;
 }

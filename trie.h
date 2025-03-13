@@ -21,8 +21,11 @@ private:
 
 public:
     Trie();
+    ~Trie();
+
     void insert(const std::string& word);
     std::vector<std::string> search(const std::string& prefix);
+    TrieNode* getRoot() const;
 };
 
 #endif // TRIE_H
